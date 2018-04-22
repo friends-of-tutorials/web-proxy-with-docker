@@ -1,6 +1,6 @@
-# A tutorial to illustrates a strategy used for versioning software projects with git
+# A tutorial to activate a web proxy with docker
 
-This is a tutorial to illustrates a strategy used for versioning software projects with git.
+This is a tutorial to activate a web proxy with docker.
 
 ## 0. Contents
 
